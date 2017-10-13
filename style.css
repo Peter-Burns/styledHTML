@@ -1,0 +1,19 @@
+h1 {
+	background-color: brown;
+	color: white;
+	text-align: center;
+	margin: 0px;
+}
+.left{
+	float: left;
+	margin: 20px;
+}
+.right{
+	float: right;
+	margin: 20px;
+}
+p {
+	float: right;
+    width: 400px;
+    margin: 15px;
+}
